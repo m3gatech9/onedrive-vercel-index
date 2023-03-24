@@ -62,3 +62,4 @@ module.exports = {
   // without timezone and replacing T with space.
   datetimeFormat: 'YYYY-MM-DD HH:mm:ss',
 }
+
